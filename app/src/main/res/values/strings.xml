@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Таймкафе</string>
+    <string name="title_activity_details">Детали</string>
+    <string name="title_section1">Карта</string>
+    <string name="title_section2">Список</string>
+
+    <string name="title_details_section1">Детали</string>
+    <string name="title_details_section2">Фотографии</string>
+
+    <string name="action_navigate">Навигация</string>
+    <string name="action_details">Подробнее</string>
+</resources>

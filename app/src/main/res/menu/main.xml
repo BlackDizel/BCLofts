@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_details"
+        android:icon="@drawable/antic_about_white"
+        android:title="@string/action_details" />
+
+    <item
+        android:id="@+id/action_navigate"
+        android:icon="@drawable/antic_step"
+        android:title="@string/action_navigate" />
+</menu>
